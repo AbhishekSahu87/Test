@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Completely ne content in M23CSA503" 
+=======
+"Updating content in M23CSA505" 
+>>>>>>> M23CSA505
